@@ -29,7 +29,7 @@ Para hacer uso de la API REST podrá levantar el servicio desde la consola así:
 ```bash
 php -S localhost:8002 app/router.php
 ```
-Esto permitirá exponer los servicios comentados arriba, se recomienda hacer uso de POSTMAN para la interración correspondiente.
+Esto permitirá exponer los servicios comentados arriba, se recomienda hacer uso de POSTMAN para la interacción correspondiente.
 * Para conocer los arboles existentes, acceder al recurso con el verbo GET trees así:
 ```bash
 http://localhost:8002/trees

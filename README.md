@@ -66,7 +66,7 @@ http://localhost:8002/trees/1 (trees refiere a la colección y 1 al Id del Arbol
 ```
 ## Aplicación
 Se creó una aplicación con login básico para registrar los arboles por usuarios y así tener una interfaz más amigable y sencilla.
-Podrá acceder a ella a través de el archivo index.php que se encuentra en la raiz de la aplicación. Puede crear una cuenta y comenzar a crear tus arboles con nodos y consultar el ancestro común más cercano si lo desea.
+Podrá acceder a ella a través de el archivo index.php que se encuentra en la raiz de la aplicación. Puede crear una cuenta y comenzar a crear tus arboles con nodos, eliminarlos y consultar el ancestro común más cercano si lo desea.
 
 ### Views
 En la carpeta Views se encuentras las interfaces web para el registro de arbol, nodos, busqueda via web.
